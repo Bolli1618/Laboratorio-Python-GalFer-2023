@@ -46,3 +46,21 @@ def fibonacci(n):
     return numeri
 
 print(fibonacci(20))
+
+# NUMERI AMICI
+
+def divisors_sum(n):
+    divisors = []
+    for i in range(n):
+        if i != 0 and n % i == 0:
+            divisors.append(i)
+    
+    return sum(divisors)
+
+
+def areFriendNumbers(n1, n2):
+    if divisors_sum(n1) == n2 and divisors_sum(n2) == n1:
+        return True
+    else: return False
+
+print(areFriendNumbers(18416, 17296))
