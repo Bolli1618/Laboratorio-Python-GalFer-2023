@@ -1,6 +1,8 @@
 # Laboratorio-Python-GalFer-2023
 Repository con i files e gli esercizi per il corso durante l'autogestione del 4-5 aprile
 
+[Link per scaricare python](https://www.python.org/downloads/)
+
 # Teoria:
 [PDF con le slide](https://github.com/Bolli1618/Laboratorio-Python-GalFer-2023/blob/main/THE%20PYTHON%20BASICS.pdf)
 
