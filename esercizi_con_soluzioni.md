@@ -1,4 +1,4 @@
-# Esercizi
+# Esercizi e Soluzioni
 
 ## Funzioni e condizioni:
 
